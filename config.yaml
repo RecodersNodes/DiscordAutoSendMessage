@@ -3,7 +3,6 @@ BOT_TOKEN:
 CHANNEL_ID: 
   - xxxxxxxxxxxxxx
 MODE: quote
-REPLY: 
 DELAY: 10
 DEL_AFTER: 
 REPOST_LAST_CHAT: 100

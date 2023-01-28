@@ -1,4 +1,10 @@
-# DiscordAutoSendMessage
+## • Bagaimana Cara Manjalakan?
+```bash
+cd DiscordSelfbot
+pip install -r requirements.txt
+python bot.py
+```
+
 ## • Bagaimana Cara Dapat Token?
 
 ```

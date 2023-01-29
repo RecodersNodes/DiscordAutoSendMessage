@@ -1,6 +1,6 @@
 ## • Bagaimana Cara Manjalakan?
 ```bash
-cd DiscordSelfbot
+cd DiscordAutoSendMessage
 pip install -r requirements.txt
 python bot.py
 ```

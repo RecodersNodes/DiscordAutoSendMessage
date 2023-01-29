@@ -1,4 +1,4 @@
-## • Bagaimana Cara Manjalakan?
+## • Bagaimana Cara Manjalankan?
 ```bash
 cd DiscordAutoSendMessage
 pip install -r requirements.txt

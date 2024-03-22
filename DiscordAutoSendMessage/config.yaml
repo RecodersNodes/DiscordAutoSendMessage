@@ -1,0 +1,8 @@
+BOT_TOKEN: 
+  - xxxxxxxxxxxxxxxxxxxx
+CHANNEL_ID: 
+  - xxxxxxxxxxxxxx
+MODE: quote
+DELAY: 10
+DEL_AFTER: 
+REPOST_LAST_CHAT: 100
